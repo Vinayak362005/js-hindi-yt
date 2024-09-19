@@ -16,6 +16,7 @@ let state;
 // symbol => unique
 
 // object
-console.log(typeof undefined"); //user defined
+console.log(typeof "undefined");    //user defined
 console.log(typeof null); //object
 
+//if you are using typeof then it results in telling type of which you want to print
